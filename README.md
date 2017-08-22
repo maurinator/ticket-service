@@ -1,6 +1,8 @@
 # ticket-service
 Java Tomcat 8 back-end for a stage ticket service
 
+![alt text](frontend.png)
+
 # Setup
 Download the latest Apache Maven from https://maven.apache.org/
 
@@ -28,6 +30,8 @@ target\bin\webapp.sh
 ```
 
 Then go to 'localhost:8080' on your favorite Internet Browser.
+
+This front end is using angularjs.
 
 # To-Do's
 1. Polish front-end routes to enable users to reserve seats from webapp served from Tomcat
