@@ -29,6 +29,6 @@ target\bin\webapp.sh
 
 Then go to 'localhost:8080' on your favorite Internet Browser.
 
-#To-Do's
+# To-Do's
 1. Polish front-end routes to enable users to reserve seats from webapp served from Tomcat
 2. Cleanup CSS, Mobile Device Responsiveness
